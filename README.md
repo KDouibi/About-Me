@@ -1,2 +1,2 @@
 # About-Me
-You can find here more about my recent works, publications, education.
+You can find here more about my education, recent works, future directions & publications.
